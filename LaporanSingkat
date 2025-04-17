@@ -1,0 +1,69 @@
+📝 LAPORAN SINGKAT
+Sistem Manajemen Inventaris Barang (CRUD Web Programming)
+Nama Siswa: Rafikhul Ramadhan
+Kompetensi Keahlian: Pengembangan Perangkat Lunak dan Gim
+Sekolah: SMK Negeri 2 Padang
+Tahun Pelajaran: 2025/2026
+Judul Proyek: CRUD Web Programming Sistem Manajemen Inventaris Barang
+
+1. Deskripsi Singkat Proyek
+Aplikasi ini adalah sistem manajemen inventaris barang berbasis web yang dibuat menggunakan bahasa pemrograman PHP, MySQL, dan Bootstrap 5 sebagai framework tampilan. Aplikasi ini memungkinkan pengguna untuk melakukan pengelolaan data barang yang tersimpan di gudang atau instansi.
+
+2. Fitur yang Diimplementasikan
+CRUD Barang
+
+Tambah, Tampil, Ubah, dan Hapus data barang.
+
+Manajemen Kategori Barang
+
+Kategori dapat dibuat, diedit, dan dihapus melalui halaman tersendiri.
+
+Pencarian & Filter
+
+Cari barang berdasarkan nama.
+
+Filter berdasarkan kategori.
+
+Validasi Input
+
+Validasi form saat menambahkan atau mengubah data barang.
+
+Tampilan Responsive
+
+Menggunakan Bootstrap agar tampil optimal di berbagai perangkat.
+
+Export Excel
+
+Data barang dapat diekspor ke dalam format Excel.
+
+Notifikasi
+
+Tampilkan alert ketika proses CRUD berhasil dilakukan.
+
+3. Struktur Tabel Database
+Terdapat 2 tabel utama:
+
+barang
+
+id_barang, nama_barang, id_kategori, jumlah_stok, harga_barang, tanggal_masuk
+
+kategori
+
+id_kategori, nama_kategori
+
+Relasi antara tabel barang dan kategori menggunakan id_kategori sebagai foreign key.
+
+4. Teknologi yang Digunakan
+Bahasa Pemrograman: PHP
+
+Database: MySQL
+
+Frontend: HTML5, CSS3, Bootstrap 5
+
+Tools: XAMPP, VS Code, phpMyAdmin
+
+5. Tujuan dan Manfaat
+Tujuan dibuatnya aplikasi ini adalah untuk memudahkan proses pencatatan, pengelolaan, dan pelaporan data barang secara digital. Dengan sistem ini, administrasi inventaris menjadi lebih efisien dan minim kesalahan.
+
+6. Penutup
+Proyek ini berhasil diselesaikan dengan seluruh fitur berjalan sebagaimana mestinya. Aplikasi ini dapat dikembangkan lebih lanjut dengan penambahan fitur login admin, laporan PDF, dan statistik penggunaan barang.
