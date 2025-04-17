@@ -1,0 +1,23 @@
+
+<table border='1'><tr><th>No</th><th>Nama</th><th>Kategori</th><th>Stok</th><th>Harga</th><th>Tanggal Masuk</th></tr><tr>
+        <td>1</td>
+        <td>Harry Potter</td>
+        <td>buku</td>
+        <td>20</td>
+        <td>70000</td>
+        <td>2025-04-16</td>
+    </tr><tr>
+        <td>2</td>
+        <td>Poco</td>
+        <td>Elektronik</td>
+        <td>5</td>
+        <td>2000000</td>
+        <td>2025-04-08</td>
+    </tr><tr>
+        <td>3</td>
+        <td>rafikhul</td>
+        <td>buku</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2025-04-24</td>
+    </tr></table>
